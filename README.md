@@ -1,6 +1,8 @@
-# 🏄‍♂️ Haedar Roofid
+# 👨‍💻 Haedar Roofid
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I have loved web development since the beginning of college, and it has been my dream for a long time. My motivation for pursuing a career in this field is to have a positive impact on many clients by providing high-quality software to make their daily lives easier. Currently, I am studying the Go programming language.
+
+I am currently looking for a role in full stack web development, particularly with JavaScript and PHP. If you are hiring, let's chat!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@haedar_rfd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/haedarr/) 
 <a href="https://visitcount.itsvg.in">

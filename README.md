@@ -1,6 +1,6 @@
 # 👨‍💻 Haedar Roofid
 
-I have loved web development since the beginning of college, and it has been my dream for a long time. My motivation for pursuing a career in this field is to have a positive impact on many clients by providing high-quality software to make their daily lives easier. Currently, I am studying the Go programming language.
+I have loved web development since the beginning of college, and it has been my dream for a long time. My motivation for pursuing a career in this field is to have a positive impact on many clients by providing high-quality software to make their daily lives easier. Excited about solving problems and continuously learning new technologies to enhance my skills. Currently, I am studying the Go programming language.
 
 I am currently looking for a role in full stack web development, particularly with JavaScript and PHP. If you are hiring, let's chat!
 

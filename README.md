@@ -4,7 +4,7 @@ I have loved web development since the beginning of college, and it has been my 
 
 I am currently looking for a role in full stack web development, particularly with JavaScript and PHP. If you are hiring, let's chat!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@haedar_rfd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/haedarr/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@haedar_rfd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haedarr/) 
 <a href="https://visitcount.itsvg.in">
       <img alt="youtube views" title="YouTube views" src="https://visitcount.itsvg.in/api?id=haedarrfd&icon=2&color=6"/>
 </a>

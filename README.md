@@ -55,8 +55,6 @@ I loved web development about 2 years ago, and it has been my dream till now. My
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
 </div>
 
-<br />
-
 #
 
 ### 📊 GitHub Stats

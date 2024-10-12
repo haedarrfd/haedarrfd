@@ -1,13 +1,13 @@
 # 👨‍💻 Haedar Roofid
 
-I have loved web development since the beginning of college, and it has been my dream for a long time. My motivation for pursuing a career in this field is to have a positive impact on many people by providing high-quality software to make their daily lives easier. Also, I kind of passionate in solving problems and want to continuously learning new technologies to enhance my skills. I mostly spending my time to learning Go programming language, Node.js and Express.js. Currently, I am looking for a role in backend web development. If you are hiring, let's chat!
+I loved web development about 2 years ago, and it has been my dream till now. My motivation for pursuing a career in this field is to have a positive impact on many people by providing high-quality software to make their daily lives easier. Also, I kind of passionate in solving problems and want to continuously learning new technologies to enhance my skills. I mostly spending my time to learning Go programming language, Node.js and Express.js. Currently, I am looking for a role in backend web development. If you are hiring, let's chat!
 
 <div align="left">
   <a href="https://linkedin.com/in/haedarr/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <a href="https://instagram.com/@haedar_rfd">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
 </div>
 

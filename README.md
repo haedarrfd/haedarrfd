@@ -1,6 +1,6 @@
 # 👨‍💻 Haedar Roofid
 
-I loved web development about 2 years ago, and it has been my dream till now. My motivation for pursuing a career in this field is to have a positive impact on many people by providing high-quality software to make their daily lives easier. Also, I kind of passionate in solving problems and want to continuously learning new technologies to enhance my skills. I mostly spending my time to learning Go programming language, Node.js and Express.js. Currently, I am looking for a role in backend web development. If you are hiring, let's chat!
+I loved web development about 2 years ago, and it has been my dream till now. My motivation for pursuing a career in this field is to have a positive impact on many people by providing high-quality software to make their daily lives easier. Also, I kind of passionate in solving problems and want to continuously learning new technologies to enhance my skills. I mostly spending my time to learning Golang, Node.js and Express.js. Currently, I am looking for a role in backend web development or full stack web development. If you are hiring, let's chat!
 
 <div align="left">
   <a href="https://linkedin.com/in/haedarr/">

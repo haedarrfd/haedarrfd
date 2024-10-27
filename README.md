@@ -16,53 +16,53 @@ I loved web development about 2 years ago, and it has been my dream till now. My
 ### 💻 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=go" height="35" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="35" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vue" height="35" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="35" alt="jquery logo"  />
+  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="35" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="35" alt="rabbitmq logo"  />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>
 
 #

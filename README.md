@@ -58,8 +58,6 @@ I loved web development about 2 years ago, and it has been my dream till now. My
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />

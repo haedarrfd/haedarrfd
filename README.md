@@ -50,15 +50,7 @@ I loved web development about 2 years ago, and it has been my dream till now. My
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>

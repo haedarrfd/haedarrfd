@@ -1,7 +1,8 @@
 ### Haedar Roofid
 
-I am just a guy who wants to be a developer who can deliver high-quality software.
+I am just a guy trying to develop great software.
 
-- I have been coding in PHP (Laravel) development about 2 years.
-- I spending my time learning Golang, Node.js and Typescript at the moment.
+- I have been coding in PHP (Laravel framework) development arround 2 years.
+- I want to learn Golang and Zig.
+- I use Linux btw.
 - You can reach out and connect with me on [LinkedIn](https://linkedin.com/in/haedarr).

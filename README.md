@@ -1,6 +1,6 @@
 ### Haedar Roofid
 
-I am just a guy trying to develop great software.
+I am just a guy trying to develop high-quality software and technology that brings positive impacts to people.
 
 - I have been coding in PHP (Laravel framework) development arround 2 years.
 - I want to learn Node.js and Golang.

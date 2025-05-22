@@ -5,4 +5,4 @@ I am just a guy trying to develop high-quality software and technology that brin
 - I have been into coding to develop software about 2 years.
 - I want to learn Java and C#.
 - I use Linux btw.
-- You can reach out and connect with me on [LinkedIn](https://linkedin.com/in/haedarr).
+- You can reach out and connect with me on [LinkedIn](https://linkedin.com/in/haedarrfd).
